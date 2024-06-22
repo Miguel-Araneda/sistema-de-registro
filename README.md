@@ -2,3 +2,4 @@
 <h4 align="center">
 :hammer: Proyecto en construcción :hammer:
 </h4>
+<p>información del proyecto</p>
